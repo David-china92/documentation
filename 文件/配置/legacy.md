@@ -1,4 +1,4 @@
----
+ ---
 id: legacy
 title: Configure HACS with YAML
 sidebar_label: YAML (legacy)
@@ -26,3 +26,4 @@ hacs:
 | `country`         | True     |                   | Set a filter based on your [A2(ISO) country code](https://www.worldatlas.com/aatlas/ctycodes.htm). |
 | `release_limit`   | True     | `5`               | Number of releases to show in the version selector.                                                |
 | `experimental`    | True     | `False`           | Boolean to enable experimental features.                                                           |
+  
